@@ -18,9 +18,9 @@
 
 🌐[LIVE LINK](https://6541f685c292de46972b2fc5--vocal-fudge-cf69a5.netlify.app/)<br>
 
-## [Q.10_TimeTable](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.07_MusicPlayer)
+## [Q.10_TimeTable](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.10_TimeTable)
 
-🌐[LIVE LINK]()<br>
+🌐[LIVE LINK](https://65433a0179d58817bb064df3--comfy-zabaione-cef53e.netlify.app/)<br>
 
 ### Output
 
