@@ -18,10 +18,10 @@
 
 🌐[LIVE LINK](https://6541f685c292de46972b2fc5--vocal-fudge-cf69a5.netlify.app/)<br>
 
-## [Q.7_TimeTable](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.07_MusicPlayer)
+## [Q.10_TimeTable](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.07_MusicPlayer)
 
 🌐[LIVE LINK]()<br>
 
 ### Output
 
-![image](./01_HTML/Q.10_TimeTable/assets/img.png)
+![image1](./01_HTML/Q.10_TimeTable/assets/img.png)
