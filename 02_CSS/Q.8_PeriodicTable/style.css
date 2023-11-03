@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Manrope&family=Mulish:wght@500&family=Nosifer&family=Noto+Sans:wght@300&family=Nunito+Sans:wght@500&family=Poppins:wght@500&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{ 
+    display: flex;
+    flex-direction:column;
+    align-items:center; 
+    background-color:#e9caf8;
+}
+
+h1{
+    margin-top:30px;
+    padding:10px 20px;
+    border-radius:30px;
+    font-weight: 300;
+    color:#ffffff;
+}
+
+
+table{ 
+    margin-top:50px;
+}
+
+.diff{ 
+    position: relative;
+    left:0.2px;
+}
+
+.colors1{ 
+    position: relative;
+    right:15px;
+    width:45px;
+    height:25px;
+    border:2px solid #000000;
+    text-align:center;
+    font-size:16px;
+    font-weight: 500;
+    background-color:#e78f9c;
+}
+
+.colors2{ 
+    width:45px;
+    height:25px;
+    border:2px solid #000000;
+    text-align:center;
+    font-size:16px;
+    font-weight: 500;
+    background-color:#FFFE71;
+}
+
+.colors3{ 
+    width:45px;
+    height:25px;
+    border:2px solid #000000;
+    text-align:center;
+    font-size:16px;
+    font-weight: 500;
+    background-color:#87CEEB;
+}
+
+.colors4{ 
+    position:relative;
+    top:20px;
+    width:45px;
+    height:25px;
+    border:2px solid #000000;
+    text-align:center;
+    font-size:16px;
+    font-weight: 500;
+    background-color:#72bf6a;
+}
+

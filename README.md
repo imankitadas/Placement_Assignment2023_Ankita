@@ -1,9 +1,3 @@
-# Placement_Assignment2023_Ankita
-
-## [Q.4_Resume](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.04_Resume)
-
-🌐[LIVE LINK](https://6541f30b9b376d4b7b2adb29--incredible-salamander-ff8f06.netlify.app/)<br>
-
 
 ## [Q.5_Website](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.05_Website)
 
