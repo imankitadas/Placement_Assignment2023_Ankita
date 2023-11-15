@@ -1,3 +1,7 @@
+## [Q.5_Resume](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.04_Resume)
+
+🌐[LIVE LINK](https://6554e67e1ac5112a4e354bcb--willowy-jelly-5ccd88.netlify.app/)<br>
+
 
 ## [Q.5_Website](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.05_Website)
 
@@ -16,6 +20,3 @@
 
 🌐[LIVE LINK](https://65433a0179d58817bb064df3--comfy-zabaione-cef53e.netlify.app/)<br>
 
-### Output
-
-![image1](./01_HTML/Q.10_TimeTable/assets/img.png)
