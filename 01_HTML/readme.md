@@ -1,4 +1,4 @@
-## [Q.5_Resume](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.04_Resume)
+## [Q.4_Resume](https://github.com/imankitadas/Placement_Assignment2023_Ankita/tree/main/01_HTML/Q.04_Resume)
 
 🌐[LIVE LINK](https://6554e67e1ac5112a4e354bcb--willowy-jelly-5ccd88.netlify.app/)<br>
 
