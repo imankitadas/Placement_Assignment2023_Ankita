@@ -24,7 +24,7 @@
 
 ### Output
 
-![image1](./01_HTML/Q.10_TimeTable/assets/img.png)
+![image1](./01_HTML/Q.10_TimeTable/assets/output.png)
 
 
 # CSS ASSIGNMENTS
